@@ -51,4 +51,8 @@ div.hero-box {
     align-items: center;
     font-family: "Poppins", sans-serif;
 }
-
+.hero-box {
+    width: 600px;
+    padding: 40px;
+    text-align: center;
+}
