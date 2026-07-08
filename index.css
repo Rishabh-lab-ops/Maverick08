@@ -65,3 +65,7 @@ h4 {
     font-family: gabriola, sans-serif;
     font-size: 20px;
 }
+.hero-box {
+           position:relative;
+           top: 20px;
+}
