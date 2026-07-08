@@ -121,13 +121,28 @@ h15 {
     font-size: 20px;
 }
 h16 {
+    align-items: center;
     backdrop-filter: blur(10px);
     font-family: Prospectus, sans-serif;
     font-size: 60px;
 }
-ol {
-    backdrop-filter: blur(10px);
-    text-align: left;
-    font-family: Perpetua, sans-serif;
-    font-size: 40px;
+h17 {
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
+}
+h18 {
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
+}
+h19 {
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
+}
+h20 {
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
+}
+h21 {
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
 }
