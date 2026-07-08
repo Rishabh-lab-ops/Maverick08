@@ -52,7 +52,7 @@ h4 {
     font-family: Poppins, sans-serif;
     font-size: 20px;
 }
-.hero-box-1 {
+.hero-box {
     position: relative;
     width: 600px;
     height: 400px;
@@ -108,7 +108,7 @@ h13 {
     font-family: century gothic, sans-serif;
     font-size: 20px;
 }
-.hero-box-2 {
+.hero-box {
     position: relative;
     width: 600px;
     height: 400px;
