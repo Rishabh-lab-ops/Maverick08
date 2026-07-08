@@ -40,6 +40,7 @@ h1 {font-family: Courier New, monospace;
     font-size: 70px;
     font-weight: bold;
     letter-spacing: -2px;
+    backdrop-filter: blur(10px);
 }
 h3 {
     text-align: center;
@@ -68,5 +69,11 @@ h4 {
 }
 .hero-box {
     position:relative;
-    bottom: 40px;
+    bottom: 20px;
+}
+h2 {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    backdrop-filter: blur(10px);
 }
