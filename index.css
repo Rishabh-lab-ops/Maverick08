@@ -57,3 +57,11 @@ h4 {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+h3 {
+    font-family: gabriola, sans-serif;
+    font-size: 30px;
+}
+h4 {
+    font-family: gabriola, sans-serif;
+    font-size: 20px;
+}
