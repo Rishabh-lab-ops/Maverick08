@@ -41,6 +41,7 @@ h1 {
     font-size: 70px;
     text-decoration: underline;
     text-decoration-thickness: 1px;
+    text-underline-offset: 6px;
     backdrop-filter: blur(10px);
 }
 h3 {
@@ -75,6 +76,7 @@ h2 {
     font-size: 60px;
     text-decoration: underline;
     text-decoration-thickness: 1px;
+    text-underline-offset: 6px;
     backdrop-filter: blur(10px);
 }
 h8 {
