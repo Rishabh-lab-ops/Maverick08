@@ -69,7 +69,7 @@ h4 {
 }
 .hero-box {
     position:relative;
-    bottom: 10px;
+    top: 10px;
 }
 h2 {
     text-align: left;
@@ -81,7 +81,15 @@ h5 {
     font-family: century gothic, sans-serif;
     font-size: 30px;
 }
-h6 {
+h7 {
     font-family: century gothic, sans-serif;
     font-size: 20px;
+}
+h8 {
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
+}
+h6.box { 
+    background-image: url("R.jpg");
+    width: 200px;
 }
