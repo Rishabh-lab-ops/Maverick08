@@ -69,11 +69,22 @@ h4 {
 }
 .hero-box {
     position:relative;
-    bottom: 20px;
+    bottom: 10px;
 }
 h2 {
     text-align: left;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 70px;
+    font-family: Courier New, monospace;
+    font-size: 60px;
     backdrop-filter: blur(10px);
+}
+h5 {
+    color: beige;
+    font-family: century gothic, sans-serif;
+    font-size: 30px;
+    font-style: bold;
+}
+h6 {
+    color: rgb(0, 0, 0);
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
 }
